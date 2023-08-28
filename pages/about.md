@@ -6,5 +6,4 @@ permalink: /about
 ---
 
 # Portfolio Jekyll Theme
-
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Hello, this is Sihan. Nice to meet you here. I'm a senior undergraduate majoring in Cartography & GIS and Computer Science at UW-Madison. I love the combination of technology and creativity, so I call myself an art programmer. It has been a fantastic journey since I made my first cartography "masterpiece" in high school. Six years later, I became a professional cartographer. Working at Robinson's Map Library, Wisconsin State Cartographer's Office, and Sea Grant Institute were the most remarkable experiences of my college life.
